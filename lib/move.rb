@@ -7,3 +7,15 @@ def display_board(board)
 end
 
 # code your move method here!
+def move(display_board, location, player = 0)
+
+  end
+
+
+
+
+
+
+
+
+
